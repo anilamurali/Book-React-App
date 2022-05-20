@@ -47,7 +47,7 @@ const Register = () => {
                 </div>
                 
                 <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                    <a href="#">New user click Here</a>
+                    <a href="Login.js">New user click Here</a>
                 </div>
             </div>
         </div>
